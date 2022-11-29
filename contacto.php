@@ -8,5 +8,7 @@
 </head>
 <body>
   <h1>Esta es la página de contactos</h1>
+  <h2>el pepe</h2>
+  <h3>etesech</h3>
 </body>
 </html>
